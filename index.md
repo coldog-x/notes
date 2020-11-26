@@ -2,6 +2,6 @@
 
 by Coldog.
 
-[HOME](coldog.pro) | [NOTES](notes.coldog.pro)
+[HOME](https://coldog.pro/) | [NOTES](https://notes.coldog.pro/)
 
 [GAMES 101](games101)
